@@ -165,3 +165,5 @@ while  True:
         pygame.draw.circle(screen,COLORS[i], mouse_rand[i], 8)
 
     pygame.display.flip() 
+
+print("nam oke oke nam")
